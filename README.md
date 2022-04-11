@@ -9,5 +9,6 @@ To launch:
 2. In 'database' folder you can get a copy of the database.
 3. Open database with MSSQLServer Management Studio to initialize database on your local server.
 4. In app source code, change connection strings, by replacing target host with your own hostname.
+5. Start app with Program.cs
 
 Dish cinstructor function currently unfinished.
